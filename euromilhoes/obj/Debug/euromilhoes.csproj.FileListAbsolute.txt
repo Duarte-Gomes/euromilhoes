@@ -1,0 +1,6 @@
+c:\users\duarte\documents\visual studio 2015\Projects\euromilhoes\euromilhoes\bin\Debug\euromilhoes.exe.config
+c:\users\duarte\documents\visual studio 2015\Projects\euromilhoes\euromilhoes\bin\Debug\euromilhoes.exe
+c:\users\duarte\documents\visual studio 2015\Projects\euromilhoes\euromilhoes\bin\Debug\euromilhoes.pdb
+c:\users\duarte\documents\visual studio 2015\Projects\euromilhoes\euromilhoes\obj\Debug\euromilhoes.csprojResolveAssemblyReference.cache
+c:\users\duarte\documents\visual studio 2015\Projects\euromilhoes\euromilhoes\obj\Debug\euromilhoes.exe
+c:\users\duarte\documents\visual studio 2015\Projects\euromilhoes\euromilhoes\obj\Debug\euromilhoes.pdb
