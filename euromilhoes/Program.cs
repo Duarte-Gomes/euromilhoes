@@ -10,17 +10,17 @@ namespace euromilhoes
     {
         static void Main(string[] args)
         {
-            int chaves;
+            string chaves;
             int inum;
-
+            int numChaves;
             do {
                 Console.WriteLine("Quantas chaves queres (1-5)? ");
-                chaves = Convert.ToInt32(Console.ReadLine());
-            } while (chaves > 5 || chaves < 1);
+                chaves = Console.ReadLine();
+            } while (!int.TryParse(chaves, out numChaves) || numChaves > 5 || numChaves < 1 );
 
             Random num = new Random();
 
-            for (int i = 0; i < chaves; i++)
+            for (int i = 0; i < numChaves; i++)
             {
                 //gera numeros
                 int[] numbers = new int[5];
